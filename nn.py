@@ -1,11 +1,11 @@
 import os
 
+import os
+
 from sklearn.model_selection import learning_curve
 
 os.environ["KMP_DUPLICATE_LIB_OK"] = "TRUE"
 import torch
-
-import troch
 import torch.nn as nn
 import torch.nn.functional as F
 
